@@ -10,5 +10,5 @@ I'm a Minecraft Bedrock Edition technical player who enjoys coding tools for the
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x4c37373230&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x4c37373230&show_icons=true&count_private=true&theme=monokai&langs_count=6&layout=compact" />
 </p>
